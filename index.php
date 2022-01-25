@@ -33,23 +33,9 @@ include(INDEX . "backEnd/join_data.php");
     <?php include("./view/layout/menu.php") ?>
     <div class="main">
         <?php
-        $page = isset($_GET['page']) ? $_GET['page'] : null;
-        switch ($page) {
-            case 'contact_us':
-                include("./view/contact_us/contact_us.php");
-                break;
-            case 'training':
-                include("./view/training/training.php");
-                break;
-            case 'new':
-                include("./view/news/new.php");
-                break;
-            case null:
-            default:
-                include("./view/index/content.php");
-                include("./view/layout/nav.php");
-                break;
-        }
+
+        include("./view/index/content.php");
+        include("./view/layout/nav.php");
         ?>
     </div>
     <div class="clear"></div>
