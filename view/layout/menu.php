@@ -6,7 +6,7 @@
             <div class="<?php echo $i == "Introduction" ? "y-menu" : ""; ?>"></div>
         </b>
         <b>
-            <a id="<?php echo $i == "new" ? "color-menu" : ""; ?>" href="http://localhost/3s?page=new"> News</a>
+            <a id="<?php echo $i == "new" ? "color-menu" : ""; ?>" href="/3s?page=new"> News</a>
             <div class="<?php echo $i == "new" ? "y-menu" : ""; ?>"></div>
         </b>
         <b>
@@ -14,7 +14,7 @@
             <div class="<?php echo $i == "research_consultancy" ? "y-menu" : ""; ?>"></div>
         </b>
         <b>
-            <a id="<?php echo $i == "training" ? "color-menu" : ""; ?>" href="http://localhost/3s?page=training"> Training</a>
+            <a id="<?php echo $i == "training" ? "color-menu" : ""; ?>" href="/3s?page=training"> Training</a>
             <div class="<?php echo $i == "training" ? "y-menu" : ""; ?>"></div>
         </b>
         <b>
@@ -26,7 +26,7 @@
             <div class="<?php echo $i == "registration" ? "y-menu" : ""; ?>"></div>
         </b>
         <b>
-            <a id="<?php echo $i == "contact_us" ? "color-menu" : ""; ?>" href="http://localhost/3s/?page=contact_us"> Contact us</a>
+            <a id="<?php echo $i == "contact_us" ? "color-menu" : ""; ?>" href="/3s/?page=contact_us"> Contact us</a>
             <div class="<?php echo $i == "contact_us" ? "y-menu" : ""; ?>"></div>
         </b>
     </div>
