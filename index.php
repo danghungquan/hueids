@@ -1,5 +1,5 @@
 <?php
-const INDEX = "http://localhost/3s/";
+const INDEX = __DIR__;
 include(INDEX . "backEnd/join_data.php");
 ?>
 <!DOCTYPE html>
