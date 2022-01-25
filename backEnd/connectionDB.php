@@ -1,5 +1,5 @@
 <?php
-$servername = "sql213.epizy.com";
+$servername = "185.27.134.10";
 $username = "epiz_30897982";
 $password = "KbN8GQZQsjHI";
 $dbname = "epiz_30897982_XXX";
