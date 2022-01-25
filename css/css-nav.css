@@ -1,0 +1,106 @@
+    .nav .nav-pd {
+        margin-left: 20px;
+        position: inherit;
+        padding-top: 50px;
+        width: 100%;
+        text-align: left;
+    }
+    
+    .nav table {
+        width: 100%;
+    }
+    
+    .block-gd-td {
+        width: 17%;
+        height: 53px;
+    }
+    
+    .nav .nav-pd hr {
+        border-color: rgb(253, 159, 36);
+        border-width: 2px;
+        padding-bottom: 30px;
+    }
+    
+    .nav .nav-hr {
+        margin-left: 20px;
+        width: 100%;
+        text-align: left;
+    }
+    
+    .nav .nav-hr hr {
+        margin: 10px 0px;
+        border-color: rgb(231, 231, 231);
+        border-width: 2px;
+    }
+    
+    .nav .nav-pd b {
+        font-size: 16px;
+    }
+    
+    .block-gd {
+        margin-left: 20px;
+        position: inherit;
+        text-align: left;
+    }
+    
+    .block-gd {
+        width: 100%;
+    }
+    
+    .block-gd img {
+        width: 100%;
+        height: 53px;
+    }
+    
+    .block-block {
+        margin-left: 30px;
+        position: relative;
+        text-align: left;
+        font-size: 12px;
+    }
+    
+    table tr td .block-block a {
+        text-decoration: none;
+    }
+    
+    .block-gd .block-img {
+        padding: 5px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: rgb(230, 230, 230);
+    }
+    
+    .block-day {
+        color: #bbb;
+        font-size: 12px;
+        float: left;
+        margin-left: 30px;
+    }
+    
+    .nav .nav-form {
+        position: inherit;
+        width: 100%;
+        padding-left: 20px;
+    }
+    
+    .nav .nav-form .nav-form-search .input input {
+        margin-top: 20px;
+        width: 90%;
+        border-style: solid;
+        border-color: rgb(219, 219, 219) !important;
+        border-right: none;
+        padding: 5px;
+        border-width: 1px;
+    }
+    
+    .nav .nav-form .nav-form-search button {
+        margin-top: 20px;
+        width: 10%;
+        float: right;
+        border-style: solid;
+        border-color: rgb(219, 219, 219);
+        border-left: none;
+        padding: 5px;
+        border-width: 1px;
+        background-color: rgb(253, 202, 36);
+    }

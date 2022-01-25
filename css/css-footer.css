@@ -1,0 +1,106 @@
+.footer-arrow {
+    text-align: center;
+}
+
+.footer-arrow a img {
+    padding: 30px;
+    width: 100;
+}
+
+.footer-row {
+    float: left;
+    width: 100%;
+    padding: 10px 12%;
+    background-color: rgb(230, 230, 230);
+    color: rgb(85, 24, 143);
+    margin-bottom: 70px;
+}
+
+.footer-row-1,
+.footer-row-2,
+.footer-row-3 {
+    float: left;
+    width: 32%;
+    padding-left: 1%;
+}
+
+.footer-row-1-title,
+.footer-row-2-title,
+.footer-row-3-title {
+    padding-bottom: 1px;
+}
+
+.footer-row-1-link p {
+    font-size: 15px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.footer-row-2 .footer-row-2-input .footer-row-2-input-name input,
+.footer-row-2 .footer-row-2-input .footer-row-2-input-email input {
+    margin-top: 10px;
+    width: 80%;
+    border-radius: 8px;
+    height: 43px;
+    border: none;
+}
+
+.footer-row-2 .footer-row-2-input .footer-row-2-input-submit button {
+    margin-top: 2px;
+    width: 80%;
+    border-radius: 8px;
+    height: 43px;
+    border: none;
+    background-color: #f8c542;
+    font-weight: 700;
+    color: white;
+    font-size: 15px;
+}
+
+.footer-row-2 .footer-row-2-input .footer-row-2-input-content textarea {
+    margin-top: 10px;
+    width: 80%;
+    border-radius: 8px;
+    height: 80px;
+    border: none;
+}
+
+.footer-row-2 .footer-row-2-input .footer-row-2-input-name input::placeholder,
+.footer-row-2 .footer-row-2-input .footer-row-2-input-email input::placeholder {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(204, 204, 204);
+    padding-left: 10px;
+}
+
+.footer-row-2 .footer-row-2-input .footer-row-2-input-content textarea::placeholder {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(204, 204, 204);
+    padding-left: 10px;
+}
+
+.footer-row-3-face {
+    float: left;
+    color: yellow;
+}
+
+.footer-row-3-tw,
+.footer-row-3-ins {
+    float: left;
+    padding-left: 20px;
+}
+
+.footer-row-3 .fa {
+    color: rgb(160, 160, 160)
+}
+
+.footer-end {
+    text-align: center;
+    font-size: 13px;
+    width: 100%;
+    padding-bottom: 3px;
+    color: rgb(78, 78, 78);
+}

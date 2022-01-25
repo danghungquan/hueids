@@ -1,0 +1,67 @@
+.row {
+    margin-right: 0px !important;
+}
+
+.row img {
+    margin-top: 6%;
+    margin-left: 39%;
+}
+
+.yellow {
+    height: 97px;
+    background-color: rgb(253, 159, 36);
+    width: 100%;
+    position: absolute;
+    clip-path: polygon(28.4% 82%, 29% 94%, 100% 94%, 100% 100%, 29% 100%, 27.5% 100%);
+}
+
+.clip {
+    width: 31%;
+    height: 97px;
+    background-color: #50117a;
+    clip-path: polygon(0 0, 100% 0%, 80% 100%, 0% 100%);
+    position: absolute;
+}
+
+.row .col-6 {
+    color: white;
+    padding-top: 20px;
+}
+
+.row .col-6 p {
+    font-size: 11px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+
+.row .col-6 b {
+    font-size: 21px;
+    letter-spacing: -2px;
+}
+
+.row .col img {
+    float: left;
+    margin-left: 8px;
+    margin-top: 15%;
+}
+
+.row .col input {
+    float: left;
+    margin-left: 20px;
+    margin-top: 15%;
+    border: 1px solid #c996ed !important;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    font-size: 14px;
+    border: none;
+}
+
+.row .col button {
+    float: left;
+    margin-top: 15%;
+    border: 1px solid #c996ed !important;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: none;
+    font-size: 14px;
+}

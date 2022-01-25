@@ -1,0 +1,43 @@
+.menu .row {
+    margin-left: 17%;
+    position: relative;
+    position: absolute;
+    margin-top: 1.5%;
+}
+
+.menu .row b a {
+    color: rgb(53, 51, 51);
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 30px;
+}
+
+
+/* .menu .row b .y-menu {
+    padding-bottom: 6px;
+    background-color: rgb(253, 159, 36);
+    clip-path: polygon(15px 71%, 100% 70%, 100% 100%, 0px 100%, 8px 0);
+    display: none;
+} */
+
+.menu .row b a:hover {
+    color: rgb(253, 159, 36);
+}
+
+.menu .row b a:hover+div {
+    padding-bottom: 6px;
+    background-color: rgb(253, 159, 36);
+    clip-path: polygon(15px 71%, 100% 70%, 100% 100%, 0px 100%, 8px -10%);
+    margin-left: 20px;
+}
+
+.y-menu {
+    padding-bottom: 6px;
+    background-color: rgb(253, 159, 36);
+    clip-path: polygon(15px 71%, 100% 70%, 100% 100%, 0px 100%, 8px -10%);
+    margin-left: 20px;
+}
+
+#color-menu {
+    color: rgb(253, 159, 36);
+}

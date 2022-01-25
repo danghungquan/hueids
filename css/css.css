@@ -1,0 +1,55 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.clear {
+    clear: both;
+}
+
+.header {
+    height: 97px;
+    width: 100%;
+    background-color: #671d98;
+    position: relative;
+}
+
+.menu {
+    height: 76px;
+    width: 100%;
+    background-color: rgb(243, 243, 243);
+    position: relative;
+}
+
+.content {
+    width: 760px;
+    height: 100%;
+    float: left;
+    margin-left: 12%;
+    position: relative;
+}
+
+.nav {
+    width: 390px;
+    float: left;
+    position: relative;
+}
+
+.footer {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(230, 230, 230);
+}
+
+.footer-wrapper {
+    position: relative;
+    float: left;
+    height: 129px;
+    width: 100%;
+    background-color: #6a1b9b;
+}
+
+.main {
+    width: 100%;
+    text-align: center;
+}

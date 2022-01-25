@@ -1,0 +1,264 @@
+.training {
+    width: 100%;
+    position: relative;
+    height: max-content;
+}
+
+.training-top {
+    width: 100%;
+    padding: 0px 11%;
+}
+
+.training-top-slide {
+    width: 65%;
+    float: left;
+    padding: 0px 10px;
+}
+
+.mySlides {
+    display: none;
+}
+
+.training-top-slide button {
+    background-color: rgb(226, 170, 17) !important;
+    margin: 0px 40px;
+    font-size: 60%;
+}
+
+.training-top-nav {
+    width: 35%;
+    float: left;
+    padding: 0px 10px;
+    float: left;
+    background-color: rgb(243, 243, 243);
+}
+
+.training-top-nav-img {
+    width: 20%;
+    float: left;
+}
+
+.training-top-nav-docs {
+    float: left;
+    width: 80%;
+    padding: 0px 10px;
+}
+
+.training-top-nav-img img {
+    width: 100%;
+    height: 99px;
+    padding: 5px;
+}
+
+.training-top-nav-docs {
+    text-align: left;
+}
+
+.training-top-nav-docs .training-top-nav-docs-title {
+    color: #6a1aa0;
+    font-weight: 700;
+}
+
+.training-top-nav-docs p {
+    color: #2c2c2c;
+    font-size: 10px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.training-top-nav-docs-Read-more {
+    color: rgb(255, 174, 0);
+    padding-left: 30px;
+}
+
+.training-Trending-courses {
+    letter-spacing: -2px;
+    color: #6a1aa0;
+    padding: 20px;
+    font-size: 33px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    background: url(https://hueids.vn/wp-content/themes/porto-child/img/ic_lineAsset.png) no-repeat -1% 50%;
+}
+
+.training-list-5 {
+    width: 100%;
+    padding: 0px 11%;
+    height: 490px;
+}
+
+.training-list-51 span,
+.training-list-52 span,
+.training-list-53 span,
+.training-list-54 span,
+.training-list-55 span {
+    font-size: 20px;
+    padding: 30px;
+    height: 10%;
+}
+
+.training-list-51 p,
+.training-list-52 p,
+.training-list-53 p,
+.training-list-54 p,
+.training-list-55 p {
+    font-size: 15px;
+    padding: 30px 20px;
+    height: 40%;
+}
+
+.training-list-51,
+.training-list-52,
+.training-list-53,
+.training-list-54,
+.training-list-55 {
+    width: 20%;
+    text-align: center;
+    float: left;
+    padding: 5px 10px;
+    color: white;
+    height: 100%;
+}
+
+.training-list-51 {
+    background: url(https://hueids.vn/wp-content/uploads/2020/05/cot1-1.png?id=2053);
+}
+
+.training-list-52 {
+    background: url(https://hueids.vn/wp-content/uploads/2020/05/cot2-1.png?id=2054);
+}
+
+.training-list-53 {
+    background: url(https://hueids.vn/wp-content/uploads/2020/05/cot3-1.png?id=2055);
+}
+
+.training-list-54 {
+    background: url(https://hueids.vn/wp-content/uploads/2020/05/cot4-1.png?id=2056);
+}
+
+.training-list-55 {
+    background: url(https://hueids.vn/wp-content/uploads/2020/05/cot5-1.png?id=2057);
+}
+
+.training-button {
+    width: 100%;
+    padding: 0px 17%;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.training-button button {
+    color: white;
+    font-size: 18px;
+    width: 100%;
+    height: 40px;
+    background-color: #f90;
+    border: none;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+.training-button button:hover {
+    background-color: rgb(226, 137, 2);
+}
+
+.training-say {
+    width: 100%;
+    padding: 5px 25%;
+    height: max-content;
+}
+
+.training-say-1 {
+    width: 33.33333333%;
+    float: left;
+    text-align: center;
+    padding: 5px 20px;
+}
+
+.training-say-1-border,
+.training-say-2-border,
+.training-say-3-border {
+    background-color: #d1d1d1;
+    clip-path: circle(36.8% at 50% 50%);
+}
+
+.training-say-1-img,
+.training-say-2-img,
+.training-say-3-img {
+    background-color: #b4b3b3;
+    clip-path: circle(35% at 50% 50%);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(168, 168, 168);
+}
+
+.training-say-1-name {
+    padding-top: 40px;
+    color: rgb(89, 0, 161);
+}
+
+.training-say-1-name p,
+.training-say-2-name p,
+.training-say-3-name p {
+    font-size: 15px;
+    padding: 20px;
+}
+
+.training-say-1-name span,
+.training-say-2-name span,
+.training-say-3-name span {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.training-join {
+    background-color: rgb(109, 18, 161);
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.training-join-top {
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 32px;
+}
+
+.training-join-center {
+    font-size: 20px;
+    padding-bottom: 35px;
+    font-weight: 700;
+}
+
+.training-join-button {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.training-join-button button {
+    width: 16%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #ff675b;
+    border: none;
+    color: white;
+    font-size: 22px;
+}
+
+.training-buttom-slide {
+    width: 100%;
+    height: max-content;
+    padding: 5px 14%;
+}
+
+.training-buttom-slide-img-1 {
+    float: left;
+    padding: 0px 10px;
+    width: 20%;
+    margin-bottom: 50px;
+}
+
+.training-buttom-slide-img-1 img {
+    width: 100%;
+}
