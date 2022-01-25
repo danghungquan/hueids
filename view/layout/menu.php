@@ -26,7 +26,7 @@
             <div class="<?php echo $i == "registration" ? "y-menu" : ""; ?>"></div>
         </b>
         <b>
-            <a id="<?php echo $i == "contact_us" ? "color-menu" : ""; ?>" href="//?page=contact_us"> Contact us</a>
+            <a id="<?php echo $i == "contact_us" ? "color-menu" : ""; ?>" href="/?page=contact_us"> Contact us</a>
             <div class="<?php echo $i == "contact_us" ? "y-menu" : ""; ?>"></div>
         </b>
     </div>
