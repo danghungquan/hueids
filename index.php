@@ -1,8 +1,7 @@
 <?php
 const INDEX = "http://localhost/3s/";
-// include(INDEX."backEnd/join_data.php");
-echo __DIR__;
- die(); ?>
+include(INDEX . "backEnd/join_data.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
 
